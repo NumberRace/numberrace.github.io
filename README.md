@@ -8,7 +8,8 @@
   <tbody>
     <tr>
       <td align="center" valign="top">
-        <OMG src=
+        <img src="img/crex56.png" alt="crex56">
+      </td>
     </tr>
   </tbody>
 </table>
